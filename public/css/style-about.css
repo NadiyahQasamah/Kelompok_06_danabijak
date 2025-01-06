@@ -1,0 +1,30 @@
+/* Style untuk tombol navigasi carousel */
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+    width: 23px; /* Ukuran tombol */
+    height: 23px; /* Ukuran tombol */
+    background-color: rgba(166, 164, 164, 0.5); /* Warna latar belakang semi-transparan */
+}
+
+/* Tombol untuk navigasi next dan prev */
+.carousel-control-prev,
+.carousel-control-next {
+    width: 40px; /* Ukuran kotak tombol navigasi */
+    height: 40px; /* Ukuran kotak tombol navigasi */
+    background-color: rgba(255, 255, 255, 0.426); /* Latar belakang kotak */
+    border-radius: 2%; /* Bentuk tombol berbentuk lingkaran */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute; /* Agar tombol berada di atas gambar slider */
+    top: 50%; /* Menempatkan tombol di tengah secara vertikal */
+    transform: translateY(-100%); /* Menyesuaikan posisi agar tombol tepat di tengah */
+}
+
+/* Menghapus border atau shadow jika ada */
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+    box-shadow: none;
+}
+
+
