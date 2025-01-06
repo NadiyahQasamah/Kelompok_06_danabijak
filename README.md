@@ -24,6 +24,16 @@ Misi DanaBijak adalah membantu setiap orang mencapai keseimbangan finansial yang
 
 ![CD](https://github.com/user-attachments/assets/14ea03ea-7dd9-4e5b-ae84-d9d5cffdeb9c)
 
+**Tampilan Project danabijak**
+![image](https://github.com/user-attachments/assets/a42f6de5-3f36-433c-9aae-316d3e296a4c)
+![image](https://github.com/user-attachments/assets/e1d525c9-11ac-4b2e-b239-853101e620d7)
+![image](https://github.com/user-attachments/assets/7d88a93e-12cb-49ca-aae2-42b0e965a112)
+![image](https://github.com/user-attachments/assets/b795af2e-564f-4b8a-a738-c0d67279c294)
+
+
+
+
+
 
 ## Link Figma
 
